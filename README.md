@@ -78,4 +78,11 @@ This project is licensed under the MIT License.
 
 ![NVIDIA Logo](https://www.nvidia.com/etc/clientlibs/nvidia/clientlibs/clientlib-site/resources/images/nvidia-logo.png)
 
-![Sample Interface](C:\Users\dell\OneDrive\Pictures\Camera Roll\Screenshot 2024-06-23 214847.png)
+## Images
+
+![Sample Interface 1](images/Screenshot%202024-06-23%20214847.png)
+
+![Sample Interface 2](images/Screenshot%202024-06-23%20215513.png)
+
+![Sample Interface 3](images/Screenshot%202024-06-23%20215620.png)
+
