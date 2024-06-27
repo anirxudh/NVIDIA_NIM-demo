@@ -31,13 +31,13 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/NVIDIA-NIM-RAG-Chatbot.git
+    git clone https://github.com/anirxudh/NVIDIA_NIM-demo.git
     ```
 
 2. Change into the project directory:
 
     ```sh
-    cd NVIDIA-NIM-RAG-Chatbot
+    cd NVIDIA_NIM-demo
     ```
 
 3. Create and activate a virtual environment:
